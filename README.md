@@ -1,6 +1,6 @@
 ## E-commerce app
 ## Description
-   simple E-commerce API.
+   Social Media Application
 ## Technologies
 
 <div>
@@ -24,18 +24,13 @@
 ## **Key Features:**
 
 - **User Authentication:** Secure user authentication endpoints using JWT tokens.
-- **Cart Option:** Create, retrieve, update, delete and ensure stock is available.
 - **User Profiles:** Fetch and update user profiles,fetch all users,including profile pictures,and contact information.
-- **Order Option:** Fetch all orders to user, make online payment with Stripe, make COD order.
-- **Coupon:** Fetch all Coupuns,specific coupon,update and delete.
-- **Brand:** Fetch all Brands,specific Brand,add with image or no,update and delete.
-- **Category:** Fetch all Categories,specific Category,add,update and delete.
-- **SubCategory:** Fetch all Subcategories,specific subcategory,add,update and delete.
-- **Product:** Fetch all Products,specific Product,add with image,update and delete.
-- **Rewiew:** Fetch all Reviews,add,update and delete.
-- **Upload Images:** Upload and manage images to be included in Product or Brands.
-- **Pagination:** Paginate large data sets for efficient retrieval and presentation.
-- **Search:** Field that you want to search by it.
+- **Post:** User can add post,Delete him/her post And Update Post.
+- **Comments:** User can add Comment,Delete And Update .
+- **Reaction:** User can add ('like','love','care','haha','angry','wow','sad') reactions.
+- **Story:** User can add story that appear only in 24 hours.
+- **Friend:** User can make realatinship and only him/her friends see the posts and stories to him/her.
+- **Upload Images:** Upload and manage images to be included in post or story.
 
 ## Installation
 1. **Clone the Repository:**
